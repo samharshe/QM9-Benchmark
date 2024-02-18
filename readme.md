@@ -1,0 +1,1 @@
+training a GNN on QM9 to make sure I know my way around $E(3)$-equivariant GNNs.
